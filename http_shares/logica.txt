@@ -1,0 +1,4 @@
+ingreso
+modificacion
+array
+query
